@@ -80,3 +80,8 @@ Sea2Sky supports research on:
 ## Citation
 
 If you use Sea2Sky in research, please cite the corresponding dataset/paper release when citation metadata is published in this repository.
+# Sea2Air
+
+## Citation
+
+If you use this dataset, please cite: https://doi.org/10.5281/zenodo.23374107
